@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JumbleMadeEasy</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeMsg">Welcome to the JUMBLE Unscramble world!</string>
+    <string name="infoMsg1">Enter your words :</string>
+    <string name="getWordMsg">Get the Word!</string>
+
+</resources>
